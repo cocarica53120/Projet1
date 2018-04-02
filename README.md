@@ -16,3 +16,6 @@ step 2 :
   git checkout firstBranch
   git merge --no-ff master
   git push origin firstBranch
+
+
+Test modif in local on multiple branches. Here master.
