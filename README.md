@@ -19,3 +19,6 @@ step 2 :
 
 
 Another Modif in firstBranch (Test in local on multiple branches).
+Test modif in local on multiple branches. Here master.
+
+Resolving conflict on GitHub. keep both modif (in the order given by GitHub).
