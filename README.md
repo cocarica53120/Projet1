@@ -1,5 +1,7 @@
 # Projet1
 
+Another Modif in newFeature_1
+Modif in newFeature_1
 Modif again
 Modif 2018/09/08 In GitHub at this time.
 
