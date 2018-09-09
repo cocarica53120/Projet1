@@ -7,3 +7,4 @@ print('feature_A Third modification as required by cocarica53120 in another Comm
 
 print('feature_A Has been rebased on master. Resolving conflict, due to modif on master branch (dest) and not Feature_A branch (src)');
 
+print('feature_A new modif')
